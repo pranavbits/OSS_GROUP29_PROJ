@@ -10,3 +10,5 @@ User can input the expression , the program will solve and give the output value
 
 User can find any Area Of shapes - includes 
 1.Square 2.Rectange 3.Triangle 4.Circle 5.Parallelogram 6.Trapezoid
+
+Assigning issues
