@@ -1,6 +1,12 @@
-# OSS_GROUP29_PROJ
-Assignment 4 for OSSE
-Added a file - a python code for solving a quadratic equation
-Added one more file - A python code to calculate area of any shape
+# OSS_GROUP29_PROJ.
 
-This contains the steps which were done in our project
+Project is written in Python and Java. 
+
+1. To solve any quadratic expression
+
+User can input the expression , the program will solve and give the output values
+
+2:  Area
+
+User can find any Area Of shapes - includes 
+1.Square 2.Rectange 3.Triangle 4.Circle 5.Parallelogram 6.Trapezoid
